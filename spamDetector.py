@@ -24,3 +24,5 @@ def main():
 main()
 
 # to run the code run the code -- python -m streamlit run spamDetector.py
+
+# and boom you have done it.
