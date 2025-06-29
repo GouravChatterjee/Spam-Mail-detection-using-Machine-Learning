@@ -1,23 +1,22 @@
-# Email Spam Classifier
+# 📧 Email Spam Classifier
 
-Welcome to the Email Spam Classifier repository!
+Welcome to the **Email Spam Classifier** – a machine learning-powered web app that determines whether a given email or message is **Spam** or **Not Spam**, built with Python and Streamlit.
 
-# Running the Streamlit Application
+🌐 **Live Demo**: [https://spam-detector-gourav.streamlit.app/](https://spam-detector-gourav.streamlit.app/)
 
-This Email Spam Classifier comes with a user-friendly interface powered by Streamlit. Follow these steps to run the application locally:
+---
 
-1. Install Streamlit:
+## 🚀 Features
+- ✅ Simple and interactive Streamlit UI
+- 🤖 Trained ML model for spam detection
+- ⚡ Fast and accurate predictions
+- 📱 Responsive, modern dark-themed design
 
-pip install -r requirements.txt
+---
 
-2. Run the Application:
+## 🛠️ How to Run Locally
 
-streamlit run app.py
-
-# Usage
-
-1. Enter the Message/Email: Open the application and input the message or email you want to classify as Spam or Not Spam.
-
-2. Click Classify: Hit the "Classify" button to initiate the classification process.
-
-3. Get the Result: The model will provide the classification result, and you'll see if the message is identified as "Spam" or "Not Spam."
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/spam-detector.git
+cd spam-detector
